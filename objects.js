@@ -1,4 +1,4 @@
-playlivar playlist = { 
+var playlist = { 
   'TLC' : 'No Scrubs',
   'Mandy Moore': 'Only Hope'
 };
